@@ -1,0 +1,6 @@
+1 peça que o usuário digite um número #Entrada
+2 subtrair 1 do número selecionado #Procesameto 
+3 Multiplicar por 10 #Procesameto
+4 subtrair o número do usuário do 10 #Procesameto
+5 Soma os dois números calculados #Procesameto
+6 Imprimir resultado na tela #Saida 

@@ -1,0 +1,7 @@
+1 Iniciar 
+2 leia n1 #Entrada
+3 n2=n1-1 #Processamento
+4 u=10-n1 #Processamento
+5 número=n1x10+n2 #Processamento
+6 Imprima número  #Saida
+7 fim
